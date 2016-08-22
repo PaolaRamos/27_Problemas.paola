@@ -1,0 +1,78 @@
+/* Inserta tu código aqui */
+*{
+	font-family: Tahoma;
+}
+
+.gris{
+	background-color: #CC2EFA;
+	width: 7%;
+	height: 6%;
+	
+}
+.negro{
+	background-color: black;
+	width: 12%;
+	height: 2%;
+
+}
+span{
+	font-weight: bold;
+
+}
+.espder{
+	margin-right: 2%;
+}
+p{
+	color: gray;
+	
+}
+.thumbnail{
+	background-color: #BDBDBD;
+}
+.small{
+	font-size: 4%;
+}
+.white{
+	color: white;
+	
+}
+.bold{
+	font-weight: bold;
+	
+}
+li{
+	list-style: none;
+	align-content: center;
+
+
+}
+.chico{
+	width: 30%;
+	height: 30%;
+}
+.chico2{
+	width: 90%;
+	height: 90%;
+}
+.bg-purp{
+	background-color: #E2A9F3;
+}
+.margin{
+	margin: 10%;
+	margin-bottom: 15%;
+}
+.bg-ng{
+	background-color: #1C1C1C;
+	color: #BDBDBD;
+}
+.bg-gry{
+	background-color: #BDBDBD;
+}
+.tit{
+	width: 40%;
+	height:50%;
+}
+.form2{
+	padding: 2%;
+	margin-top: 60%;
+}
